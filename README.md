@@ -6,19 +6,28 @@ This dashboard provides a comprehensive view of loan performance, offering insig
 This dashboard presents a high-level overview of loan performance, including:
 
 •	 Total Loan Applications: Tracks the total number of loan applications received and their trends over time.
+
 •	Total Funded Amount: Monitors the total amount of funds disbursed as loans.
+
 •	Total Amount Received: Calculates the total amount received from borrowers.
+
 •	Average Interest Rate: Analyzes the average interest rate charged on loans.
+
 •	Average Debt-to-Income Ratio (DTI): Assesses the financial health of borrowers.
 ## Dashboard 2: Overview
 
 This dashboard provides a more detailed analysis of loan performance through various visualizations, such as:
 
 •	Monthly Trends by Issue Date: Identifies seasonal patterns and long-term trends in lending activities.
+
 •	Regional Analysis by State: Compares lending performance across different regions.
+
 •	Loan Term Analysis: Analyzes the distribution of loans based on their terms.
+
 •	Employee Length Analysis: Examines the impact of borrower employment length on loan performance.
+
 •	Loan Purpose Breakdown: Breaks down loan performance by the stated purpose of the loan.
+
 •	Home Ownership Analysis: Evaluates the influence of home ownership on loan applications and disbursements.
 
 ## Dashboard 3: Details
