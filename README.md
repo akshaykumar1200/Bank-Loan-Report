@@ -57,5 +57,6 @@ Technical Notes
 •	Visualization Tools: The dashboard is built using [Visualization Tools] (e.g., Tableau, Power BI, Python libraries like Matplotlib or Plotly).
 
 •	Customization: The dashboard can be customized to meet specific reporting requirements and preferences.
+
 ![snapshot](https://github.com/akshaykumar1200/Bank-Loan-Report/issues/2#issue-2663803641)
 
