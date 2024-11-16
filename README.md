@@ -58,5 +58,5 @@ Technical Notes
 
 •	Customization: The dashboard can be customized to meet specific reporting requirements and preferences.
 
-![snapshot](https://github.com/akshaykumar1200/Bank-Loan-Report/issues/2#issue-2663803641)
-
+Snap of Dashboard
+![Screenshot 2024-10-15 135351](https://github.com/user-attachments/assets/5b6ea9c0-929b-4040-bc01-163382c4f05e)
