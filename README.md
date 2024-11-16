@@ -45,6 +45,11 @@ This dashboard offers a granular view of individual loans, providing detailed in
 •	Visualization: The dashboard will automatically generate visualizations based on the input data, providing insights into loan performance.
 
 •	Analysis: Use the interactive elements of the dashboard to drill down into specific details, compare different metrics, and identify trends.
+
+
+Snap of Dashboard
+
+
 Technical Notes
 
 •	Data Format: The dashboard expects data in a structured format, such as a CSV or Excel file.
